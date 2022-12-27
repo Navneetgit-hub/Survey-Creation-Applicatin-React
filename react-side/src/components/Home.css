@@ -1,0 +1,19 @@
+.home-div {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    position: relative;
+    top: 70px;
+}
+
+.home-text {
+    font-size: 70px;
+}
+
+img{
+    width: 40%;
+    height: 70vh;
+    margin-right: 40px;
+}
